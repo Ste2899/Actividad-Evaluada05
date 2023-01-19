@@ -1,0 +1,37 @@
+
+.mensaje { 
+    display: flex;  
+    align-items: center;
+    justify-content: center; 
+    width: 100%;
+    margin-top: 200px;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif; 
+    font-size: 1.5rem;
+    color: rgb(131, 30, 121);
+    flex-direction: column;
+} 
+
+.espacio{
+    margin: 20px;    
+}
+
+
+.boton{
+    background-color: white;
+    color: rgb(65, 50, 101);
+    border: 2px solid #d8242a;
+    padding: 5px 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+}
+  
+.boton:hover, .boton:active {
+  background-color: #d8242a;
+  color: white;
+} 
+
+.posicion{
+    display: flex;
+    justify-content: flex-end;
+}
