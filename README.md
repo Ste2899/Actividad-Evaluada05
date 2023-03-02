@@ -1,4 +1,4 @@
-# Actividad-Evaluada05
+# Validar formulario web mediante Bootstrap Validation
 Validar formulario web mediante Bootstrap Validation
 1- Crear una página llamada producto.html
 2- El botón guardar deberá validar que los campos del formulario no quedan vacíos, mediante 
